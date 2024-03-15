@@ -11,7 +11,8 @@ const commands = new Map([
     ['+', 'a'],
     ['=', 'e'],
     ['Enter', 'e'],
-    ['Delete', 'ac']
+    ['Delete', 'ac'],
+    ['Backspace', 'ac']
 ]);
 
 
